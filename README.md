@@ -37,6 +37,7 @@ Ziel ist es, meinen Lebenslauf als strukturierte Java-Klassen und Methoden darzu
 ## 📬 Kontakt
 
 -📧 E-Mail: stanislavpopov555@gmail.com
+
 -📍 Wohnort: Bauern, Deutschland, 95100 Selb
 
 ## 📬 Social Media
