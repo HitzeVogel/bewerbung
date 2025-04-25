@@ -7,11 +7,11 @@ Ich bewerbe mich aktuell um eine Ausbildung als Fachinformatiker für Anwendungs
 
 ## 📄 Unterlagen zum Download
 
-- ✉️ **Anschreiben:** 
-- 📃 **Lebenslauf:** 
-- 📃 **Berufs-Arbeitserfahrung:** 
-- 🖥️ **(Optional) Präsentation:** 
-- 📎 **(Optional) Weitere Anlagen:** 
+- ✉️ **Anschreiben:** [Berufs-Arbeitserfahrung(detailliert) (signed).pdf](./Berufs-Arbeitserfahrung(detailliert) (signed).pdf)
+- 📃 **Lebenslauf:** [Lebenslauf_Stanislav_Popov.pdf](./Lebenslauf_Stanislav_Popov.pdf)
+- 📃 **Berufs-Arbeitserfahrung:** [Lebenslauf_Stanislav_Popov.pdf](./Lebenslauf_Stanislav_Popov.pdf)
+- 🖥️ **(Optional) Präsentation:** [Lebenslauf_Stanislav_Popov.pdf](./Lebenslauf_Stanislav_Popov.pdf)
+- 📎 **(Optional) Weitere Anlagen:** [Lebenslauf_Stanislav_Popov.pdf](./Lebenslauf_Stanislav_Popov.pdf)
 
 ---
 
