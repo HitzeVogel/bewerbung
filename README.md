@@ -11,7 +11,7 @@ Ich bewerbe mich aktuell um eine Ausbildung als Fachinformatiker für Anwendungs
 - 📃 **Lebenslauf:** [Lebenslauf_StanislavPopov.pdf](./Lebenslauf_StanislavPopov.pdf)
 - 📃 **Berufs-Arbeitserfahrung:** [Berufserfahrung_detailliert_StanislavPopov.pdf](./Berufserfahrung_detailliert_StanislavPopov.pdf)
 - 🖥️ **(Optional) Präsentation:**...
-- 📎 **(Optional) Weitere Anlagen:** 
+- 📎 **(Optional) Weitere Anlagen:** [Deutsch_B2_Leben_Deutschland.pdf](./Deutsch_B2_Leben_Deutschland.pdf) [Beurteilungsbogen_StanislavPopov.pdf](./Beurteilungsbogen_StanislavPopov.pdf)
 
 ---
 
