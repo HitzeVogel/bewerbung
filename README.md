@@ -22,9 +22,16 @@ Ziel ist es, meinen Lebenslauf als strukturierte Java-Klassen und Methoden darzu
 
 🛠️ Das Projekt wird in Kürze hier verlinkt.
 
+🧠java-bewerbung/ [Java](https://img.shields.io/badge/Code-Java-orange?logo=java)
+├── Main.java
+├── StanislavPopov.java [Deutsch_B2_Leben_Deutschland.pdf](./Deutsch_B2_Leben_Deutschland.pdf) [Beurteilungsbogen_StanislavPopov.pdf](./Beurteilungsbogen_StanislavPopov.pdf)
+├── SkillCore.java [Deutsch_B2_Leben_Deutschland.pdf](./Deutsch_B2_Leben_Deutschland.pdf) [Beurteilungsbogen_StanislavPopov.pdf](./Beurteilungsbogen_StanislavPopov.pdf)
+
 ---
 
 ## 📬 Kontakt
 
 📧 E-Mail: stanislavpopov555@gmail.com
 📍 Wohnort: Bauern, Deutschland, 95100 Selb
+
+## 📬 Social Media
