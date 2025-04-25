@@ -29,3 +29,4 @@ Fähigkeiten wie Teamarbeit, Selbstmotivation und Lernverhalten werden bewertet 
 - Am Ende erfolgt eine prozentuale Zusammenfassung der aktiven Skills.
 
 📁 Dieses Modul ist Teil des interaktiven Bewerbungsprojekts von Stanislav Popov.
+
