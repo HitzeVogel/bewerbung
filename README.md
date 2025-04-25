@@ -27,7 +27,9 @@ Ziel ist es, meinen Lebenslauf als strukturierte Java-Klassen und Methoden darzu
 ![Java](https://img.shields.io/badge/Code-Java-orange?logo=java)
 
 ├── Main.java
+
 ├── StanislavPopov.java [Deutsch_B2_Leben_Deutschland.pdf](./Deutsch_B2_Leben_Deutschland.pdf) [Beurteilungsbogen_StanislavPopov.pdf](./Beurteilungsbogen_StanislavPopov.pdf)
+
 ├── SkillCore.java [Deutsch_B2_Leben_Deutschland.pdf](./Deutsch_B2_Leben_Deutschland.pdf) [Beurteilungsbogen_StanislavPopov.pdf](./Beurteilungsbogen_StanislavPopov.pdf)
 
 ---
