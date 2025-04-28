@@ -30,7 +30,7 @@ https://github.com/HitzeVogel/CyberVogel
 
 ├── Main.java
 
-├── StanislavPopov.java [Deutsch_B2_Leben_Deutschland.pdf](./Deutsch_B2_Leben_Deutschland.pdf) [Beurteilungsbogen_StanislavPopov.pdf](./Beurteilungsbogen_StanislavPopov.pdf)
+├── StanislavPopov.java [OUTPUT_StanislavPopov.md](./OUTPUT_StanislavPopov.md) 
 
 ├── SkillCore.java [Deutsch_B2_Leben_Deutschland.pdf](./Deutsch_B2_Leben_Deutschland.pdf) [Beurteilungsbogen_StanislavPopov.pdf](./Beurteilungsbogen_StanislavPopov.pdf)
 
