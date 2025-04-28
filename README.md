@@ -44,5 +44,6 @@ https://github.com/HitzeVogel/CyberVogel
 
 ## 📬 Social Media
 -https://tapy.me/hitzevogel
+
 -https://www.linkedin.com/in/stanislav-popov-b18765353/
 
