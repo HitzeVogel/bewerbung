@@ -1,4 +1,4 @@
-# 💼 Bewerbungsunterlagen – Stanislav Popov
+ 💼 Bewerbungsunterlagen – Stanislav Popov
 
 Willkommen in meinem Bewerbungsbereich!  
 Ich bewerbe mich aktuell um eine Ausbildung als Fachinformatiker für Anwendungsentwicklung und möchte hier meine Unterlagen zur Verfügung stellen.
